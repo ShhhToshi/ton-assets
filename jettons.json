@@ -953,6 +953,19 @@
   "symbol": "BULL"
  },
  {
+  "address": "0:aae585d6f382be5ba9e54a63f02d94abd64f3364c7ee2fdacba3e3f27b57e427",
+  "description": "Bums-Combining Web3, AI, and entertainment, creating an IP universe that bridges the virtual and the real.",
+  "image": "https://assets.bums.bot/logo.png",
+  "name": "BUMS",
+  "social": [
+   "https://t.me/bums_official"
+  ],
+  "symbol": "BUMS",
+  "websites": [
+   "https://t.me/bums/app"
+  ]
+ },
+ {
   "address": "0:554441d361da11b38748032b76f0d6a99ed06614d3a0765ba896b695f0dd213d",
   "description": "For serious investors who do not want to invest in a scam. The coin is powered by the real sector of the economy.",
   "image": "https://trueimages.ru/img/9b/0f/aeaf3d76.png",
@@ -988,6 +1001,18 @@
    "https://t.me/birbcointon"
   ],
   "symbol": "BIRB"
+ },
+ {
+  "address": "0:a01ff17431ffc210d38c3c502c06ca85fc16a3f1991ba5243937a95181f45d94",
+  "description": "Block Card Query is a mini-app for analyzing blockchain transactions. Track wallet activity, find whales and investigate suspicious transactions.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcgh_f0mf_cenompfasbsqf_baj8zkbpsq5n6lrgfrdlkij.png?size=lg&key=c4170f",
+  "name": "Block Card",
+  "social": [
+   "https://t.me/blockcard_bc",
+   "https://youtube.com/@blockcard_bc",
+   "https://x.com/BlockCardTON"
+  ],
+  "symbol": "BC"
  },
  {
   "address": "0:5b3de1fb4fb3bbbe99b8c6d403a9c03efad1b838bdc34ec049c8220980eef8f2",
@@ -2714,6 +2739,17 @@
   ]
  },
  {
+  "address": "0:49a728d88ec679c61a8294081a4aa54796016db09bdc954fbddc087e2deaae1f",
+  "description": "JOYSTICK - \u044d\u0442\u043e \u0440\u0435\u0432\u0430\u0440\u0434\u043d\u044b\u0439 \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d \u0441 \u0434\u0438\u0432\u0438\u0434\u0435\u043d\u0434\u0430\u043c\u0438 \u0432 $TON.",
+  "image": "https://trueimages.ru/img/5b/a1/84f01086.png",
+  "name": "JOYSTICK",
+  "social": [
+   "https://t.me/joystickpro",
+   "https://t.me/joystickchat"
+  ],
+  "symbol": "JSI"
+ },
+ {
   "address": "0:108af25116f5ee2431a0861784f515f4efa1c78f24b3e7e42e1d99df7ff8e75e",
   "coingecko": "https://coingecko.com/en/coins/jpool",
   "coinmarketcap": "https://coinmarketcap.com/currencies/jpool/",
@@ -3080,6 +3116,16 @@
   "image": "https://cf-ipfs.com/ipfs/bafkreidy7gsw4hvbz5tub6w3am73smxm2kszg72wsmpmw27v5tbzn3hz7y",
   "name": "Squid Egg (Legacy)",
   "symbol": "LSQG"
+ },
+ {
+  "address": "0:13b6a8cf77e459009762dac3a524277ad70f72e53e5e61ee34018e4a09979e98",
+  "description": "LUCKRA \u2014 \u043a\u0440\u0438\u043f\u0442\u0430, \u0433\u0434\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 \u043f\u043e-\u0447\u0435\u0441\u0442\u043d\u043e\u043c\u0443!",
+  "image": "https://trueimages.ru/img/3e/51/8b05df76.png",
+  "name": "LUCRA",
+  "social": [
+   "https://t.me/Lucracoinchat"
+  ],
+  "symbol": "LUCRA"
  },
  {
   "address": "0:db2a2857319b8d7e5ee6ed570dac72326186200853e171c22a34dfe870d9fe3c",
